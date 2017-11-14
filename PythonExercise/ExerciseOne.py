@@ -1,6 +1,4 @@
 '''
-Created on 14 Nov 2017
-
-@author: Lourdina Perera
+@author: Ruwan Perera
 '''
 print("hello world")
